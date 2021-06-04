@@ -5,4 +5,7 @@
 - [ ] Add augmentations
 - [ ] Add Online Training 
 
+#### GT Masks
+<img src = "map_grid.png" width ="500"> 
+
 
