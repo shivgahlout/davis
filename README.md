@@ -5,7 +5,13 @@
 - [ ] Add augmentations
 - [ ] Add Online Training 
 
-#### GT Masks
-<img src = "map_grid.png" width ="500"> 
+#### GT masks
+<img src = "map_grid.png" width ="400"> 
+
+#### Coarsed and translated masks
+<img src = "dilated_grid.png" width ="400"> 
+
+#### Input image + masks 
+<img src = "inputs.png" width ="400"> 
 
 
