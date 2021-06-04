@@ -6,12 +6,12 @@
 - [ ] Add Online Training 
 
 #### GT masks
-<img src = "map_grid.png" width ="400"> 
+<img src = "map_grid.png" width ="500"> 
 
 #### Coarsed and translated masks
-<img src = "dilated_grid.png" width ="400"> 
+<img src = "dilated_grid.png" width ="500"> 
 
 #### Input image + masks 
-<img src = "inputs.png" width ="400"> 
+<img src = "inputs.png" width ="500"> 
 
 
